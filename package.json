@@ -1,0 +1,19 @@
+{
+    "name": "digo-html-minifier",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-html-minifier",
+    "description": "digo 插件：使用 html-minifier 压缩 HTML",
+    "keywords": [
+        "digo plugin",
+        "minify html",
+        "compress html"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "html-minifier": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
